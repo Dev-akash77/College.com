@@ -1160,10 +1160,8 @@ form{
    border: .2rem solid black;
    
 }
-.type:hover{
+.type:focus{
   border: .6rem solid blue;
-  height: 12rem;
-  color: blue;
 }
 .main_textarea{
   margin-top: 10rem;
